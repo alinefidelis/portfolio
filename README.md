@@ -1,11 +1,11 @@
-# 🌟 Portfólio Profissional
+# Portfólio Profissional
 
 Bem-vindo(a) ao meu espaço no GitHub!
 Aqui você encontrará uma coletânea dos meus principais projetos, estudos e iniciativas, que representam minha trajetória profissional e acadêmica.
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 - Gestora de Projetos e Times Ágeis com foco em inovação e melhoria contínua.
 - Experiência em Low/No Code (Microsoft Power Platform e ServiceNow App Engine).
@@ -15,16 +15,16 @@ Aqui você encontrará uma coletânea dos meus principais projetos, estudos e in
 
 ---
 
-## 📂 Estrutura do portfólio
+## Estrutura do portfólio
 
-- 🚀 Projetos em Low/No Code: Casos práticos de automação e governança em Power Platform e ServiceNow.
-- 📊 Gestão de Projetos Ágeis: Dashboards, templates, métricas e boas práticas que aplico em projetos corporativos.
-- 📚 Aprendizados e Estudos: Resumos e insights do MBA, livros e formações complementares.
-- 💡 Iniciativas Empreendedoras: Projetos pessoais e empreendimentos voltados a inovação em serviços.
+- Projetos em Low/No Code: Casos práticos de automação e governança em Power Platform e ServiceNow.
+- Gestão de Projetos Ágeis: Dashboards, templates, métricas e boas práticas que aplico em projetos corporativos.
+- Aprendizados e Estudos: Resumos e insights do MBA, livros e formações complementares.
+- Iniciativas Empreendedoras: Projetos pessoais e empreendimentos voltados a inovação em serviços.
 
 ---
 
-## 🛠️ Competências e Ferramentas
+## Competências e Ferramentas
 
 - Plataformas: Microsoft Power Platform | Power BI | ServiceNow App Engine
 - Metodologias: Scrum | Kanban | Gestão de Portfólio
@@ -32,11 +32,11 @@ Aqui você encontrará uma coletânea dos meus principais projetos, estudos e in
 
 ---
 
-## 📬 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/alinefidelis)  
 - [E-mail](mailto:alinefidelis@live.com)  
 
 ---
 
-✨ Este portfólio está em constante evolução — assim como minha jornada profissional.
+Este portfólio está em constante evolução — assim como minha jornada profissional.
